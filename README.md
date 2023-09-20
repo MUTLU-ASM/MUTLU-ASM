@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript,React**
 
-- 💬 Ask me about **C#,HTML,CSS,Bootstrap**
+- 💬 Ask me about **C#,JS,HTML,CSS,Bootstrap**
 
 - 📫 How to reach me **asimmutlu6134@gmail.com**
 
