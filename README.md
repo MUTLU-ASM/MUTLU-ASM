@@ -22,5 +22,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutlu-asm&layout=compact" alt="mutlu-asm" /></p>
 
